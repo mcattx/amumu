@@ -1,0 +1,13 @@
+.DS_Store
+dist/
+dist/amumu.min.js
+dist/amumu.js
+pkg
+*.swp
+docs/*
+.jhw-cache
+.rbenv-version
+public
+node_modules
+temp/
+npm-debug.log

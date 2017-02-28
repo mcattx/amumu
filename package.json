@@ -1,0 +1,24 @@
+{
+  "name": "Amumu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "build": "uglify dist/amumu.js dist/amumu.min.js",
+    "dev": "",
+    "lint": "",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "shelljs": "^0.7.6",
+    "uglify-js": "^2.8.0"
+  }
+}
